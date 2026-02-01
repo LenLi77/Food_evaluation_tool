@@ -1,5 +1,5 @@
 {
-  "name": "sprat-evaluator",
+  "name": "food-evaluator",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -14,7 +14,7 @@
     "react-dom": "^18.2.0",
     "pusher": "^5.2.0",
     "pusher-js": "^8.4.0-rc2",
-    "@vercel/kv": "^2.0.0"
+    "@upstash/redis": "^1.34.0"
   },
   "devDependencies": {
     "@types/node": "^20",
